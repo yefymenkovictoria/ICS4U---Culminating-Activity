@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk.Web"> <!-- Web project settings for the inventory API -->
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework> <!-- Uses .NET 8 to run the API -->
+    <Nullable>enable</Nullable> <!-- Turns on nullable checks to catch missing values and give error messages accordingly -->
+    <ImplicitUsings>enable</ImplicitUsings> <!-- Auto-includes common namespaces to keep the code shorter! -->
+  </PropertyGroup>
+</Project>
